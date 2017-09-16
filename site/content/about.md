@@ -5,4 +5,4 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+**I'm Kevin**, developer and motorcycle enthusiast. This is my blog about my journey as a developer and  motorcyclist.
