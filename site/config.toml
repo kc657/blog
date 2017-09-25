@@ -67,7 +67,7 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "melange-second.jpeg"
 			thumb = "melange-front.jpeg"
-			title = "Melange - https://github.com/kc657/Melange-Food-API"
+			title = "Mélange - https://github.com/kc657/Melange-Food-API"
 			description = "Mélange API provides the hungry user with a tool to take ingredients they have in their pantry and search for new recipes! By integrating the Edamam Recipe Search API, the user is able to search for recipes using multiple ingredients in their inventory. The app returns a matching recipe the user can then save to the database and generate a list of saved recipes they want to cook."
 
 		[[params.portfolio.gallery]]
