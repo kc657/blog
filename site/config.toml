@@ -59,7 +59,7 @@ paginate = 10
 			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
 
 		[[params.portfolio.gallery]]
-			image = "Kumu-second.gif"
+			image = "Kumu-second.png"
 			thumb = "kumu-gif.gif"
 			title = "Kumu - https://github.com/kc657/Kumu-Rails"
 			description = "Kumu is a Ruby on Rails application that gives students a space to share their notes and feedback with each other. Students interact with each other's notes through comments and up/down voting. Additionally the App will feature the ability to create an account, have custom information on a user profile, and keep track of user stats."
