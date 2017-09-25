@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Compling Kevin"
 theme = "hugo-strata-theme"
-disqusShortname = "kevin-9"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
