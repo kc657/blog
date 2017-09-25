@@ -5,4 +5,4 @@ title = "about"
 
 +++
 
-**I'm Kevin**, developer and motorcycle enthusiast. This is my blog about my journey as a developer and  motorcyclist.
+**I'm Kevin Chen**, developer and motorcycle enthusiast. This webpage is dedicated to my journey is both aspects.
