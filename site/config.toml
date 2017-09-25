@@ -59,10 +59,10 @@ paginate = 10
 			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "waywayfar-second.png"
+			thumb = "waywayfar.png"
+			title = "Waywayfar - https://github.com/kc657/project-waywayfar"
+			description = "Waywayfar is a MERN stack application with authentication. This social media site allows users to share posts about his/her favorite place in a city. The user can include a description and a photo for each post. This full CRUD application also allow users to edit or delete posts."
 
 		[[params.portfolio.gallery]]
 			image = "melange-second.jpeg"
@@ -71,10 +71,10 @@ paginate = 10
 			description = "Mélange API provides the hungry user with a tool to take ingredients they have in their pantry and search for new recipes! By integrating the Edamam Recipe Search API, the user is able to search for recipes using multiple ingredients in their inventory. The app returns a matching recipe the user can then save to the database and generate a list of saved recipes they want to cook."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "kumu-gif.gif"
+			thumb = "kumu-gif.gif"
+			title = "Kumu - https://github.com/kc657/Kumu-Rails"
+			description = "Kumu is a Ruby on Rails application that gives students a space to share their notes and feedback with each other. Students interact with each other's notes through comments and up/down voting. Additionally the App will feature the ability to create an account, have custom information on a user profile, and keep track of user stats."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
