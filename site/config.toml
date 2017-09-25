@@ -54,9 +54,9 @@ paginate = 10
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "articulat.png"
-			thumb = "thumbs/01.jpg"
-			title = "Articulat.in"
-			description = "Articulat.in is an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
+			thumb = "articulat.png"
+			title = "Articulat.in - https://github.com/kc657/Articulatin-FrontendArticulat.in"
+			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
