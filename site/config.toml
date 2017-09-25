@@ -42,8 +42,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Kevin Chen - Developer"
+		content = "Driven with an expectation of excellence, I receive satisfaction by solving complex problems systematically. Development provides a perfect environment for that endeavor and an ever-expanding set of tools to experiment with."
 
 
 	[params.portfolio]
@@ -56,7 +56,9 @@ paginate = 10
 			image = "articulat.png"
 			thumb = "thumbs/01.jpg"
 			title = "Articulat.in"
-			description = "Articulat.in is an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
+			description = "Articulat.in is an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem.
+			Webpage: https://articulatin.herokuapp.com
+			Github: https://github.com/kc657/Articulatin-Frontend"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
@@ -98,11 +100,11 @@ paginate = 10
 		content = "Feel free to reach out to me with any questions you may have!"
 
 		address = [
-			"255 Bush Stree",
-			"San Fransisco",
+			"255 Bush Street",
+			"San Francisco",
 			"United States"
 		]
-		phone = "Null"
+		phone = ""
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
