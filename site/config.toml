@@ -56,7 +56,7 @@ paginate = 10
 			image = "articulat-second.png"
 			thumb = "articulat.png"
 			title = "Articulat.in - https://github.com/kc657/Articulatin-Frontend"
-			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
+			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving the longest common subsequence problem and the common substrings problem."
 
 		[[params.portfolio.gallery]]
 			image = "Kumu-second.png"
