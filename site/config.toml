@@ -53,9 +53,9 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "articulat.png"
+			image = "articulat-second.png"
 			thumb = "articulat.png"
-			title = "Articulat.in - https://github.com/kc657/Articulatin-FrontendArticulat.in"
+			title = "Articulat.in - https://github.com/kc657/Articulatin-Frontend"
 			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving two unique problems when tackling data comparison; the longest common subsequence problem and the common substrings problem."
 
 		[[params.portfolio.gallery]]
@@ -65,10 +65,10 @@ paginate = 10
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "melange-second.jpeg"
+			thumb = "melange-front.jpeg"
+			title = "Melange - https://github.com/kc657/Melange-Food-API"
+			description = "Mélange API provides the hungry user with a tool to take ingredients they have in their pantry and search for new recipes! By integrating the Edamam Recipe Search API, the user is able to search for recipes using multiple ingredients in their inventory. The app returns a matching recipe the user can then save to the database and generate a list of saved recipes they want to cook."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
