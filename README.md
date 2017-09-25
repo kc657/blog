@@ -1,2 +1,1 @@
-# Kevin's Personal Blog
-## Please visit [here](kevinchen.netlify.com)!
+# [Kevin Chen's Personal Blog](kevinchen.netlify.com)
