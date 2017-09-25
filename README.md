@@ -1,1 +1,1 @@
-# [Kevin Chen's Personal Blog](kevinchen.netlify.com)
+# [Kevin Chen's Personal Blog](https://kevinchen.netlify.com)
