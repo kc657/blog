@@ -1,5 +1,5 @@
 ---
-title: 'devPost[0] - The Beginning'
+title: 'Thoughts About General Assembly'
 date: 2017-09-14T00:00:00-07:00
 ---
 Twelve weeks at General Assembly’s developer bootcamp passed by faster than I had anticipated. From learning the basic logical operators on week one to tackling longest common subsequence algorithms for my final project, I am proud of how much I have learned. But my one regret was not documenting my experience throughout. Following the old Chinese proverb: "The best time to plant a tree was 20 years ago. The second best time is now", here is my first post with three advice for anyone considering a developer bootcamp.
