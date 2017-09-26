@@ -4,7 +4,7 @@ title = "Compling Kevin"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-107131038-1"
 # Define how many posts should appear on a site
 paginate = 10
 
