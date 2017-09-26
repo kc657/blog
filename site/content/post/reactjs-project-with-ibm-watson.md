@@ -24,3 +24,6 @@ The result of all this was an algorithm that did not work consistently as I was 
 While I did not overcome this challenge alone, I still learned a lot more about data comparison than I would have if I used the jsdiff package. The scoring turned out to be fairly accurate and gave my project the last function it needed!
 
 I learned a lot in this project but I realized there are still a lot of problems such as the longest common substring algorithm in place. I will continue to refactor my code in attempt to make the scoring more accurate for the users. If anyone has any input or suggestions, I would be happy to hear about it! Thank you for reading about my final project experience.
+
+Front-end Github Repository: [Click Here](https://github.com/kc657/Articulatin-Frontend)
+Back-end Github Repository:  [Click Here](https://github.com/kc657/Articulatin-Server)
