@@ -3,6 +3,7 @@ title: React.js with IBM Watson
 date: 2017-09-25T22:48:54.385Z
 ---
 #### I am proud to present [Articulat.in](https://articulatin.herokuapp.com)! Here is the story behind this application:
+<br/><br/>
 
 
 For my final project at General Assembly’s developer bootcamp, I decided to create an ambitious application that merged IBM Watson capabilities with React functionality. I mentioned in my previous [blog post](https://kevinchen.netlify.com/post/first/) that I attended a few IBM meetups/hackathon. Having learned a lot in these events, a big goal for the final project was to demonstrate my ability to merge skills and technology I learned on my own with in-class material. The vessel to deliver my goal was an app that analyzed text differential of a written transcript and a user's voice recording. By doing so, algorithms could provide insight on how well the user memorized the original transcript prior to a big presentation.
@@ -25,5 +26,7 @@ While I did not overcome this challenge alone, I still learned a lot more about 
 
 I learned a lot in this project but I realized there are still a lot of problems such as the longest common substring algorithm in place. I will continue to refactor my code in attempt to make the scoring more accurate for the users. If anyone has any input or suggestions, I would be happy to hear about it! Thank you for reading about my final project experience.
 
-Front-end Github Repository: [Click Here](https://github.com/kc657/Articulatin-Frontend)
+Front-end Github Repository: [Click Here](https://github.com/kc657/Articulatin-Frontend) 
+<br/><br/>
 Back-end Github Repository:  [Click Here](https://github.com/kc657/Articulatin-Server)
+
