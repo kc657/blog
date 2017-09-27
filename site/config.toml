@@ -67,8 +67,8 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "waywayfar-second.png"
 			thumb = "waywayfar.png"
-			title = "Waywayfar - https://github.com/kc657/project-waywayfar"
-			description = "Waywayfar is a MERN stack application with authentication. This social media site allows users to share posts about his/her favorite place in a city. The user can include a description and a photo for each post. This full CRUD application also allow users to edit or delete posts."
+			title = "Waywayfar - https://github.com/kc657/project-wayfar-frontend"
+			description = "Waywayfar is a MERN stack application with authentication. This social media site allow users to share posts about his/her favorite place in a city. The user can include a description and a photo for each post. This full CRUD application also allow users to edit or delete posts."
 
 		[[params.portfolio.gallery]]
 			image = "melange-second.jpeg"
