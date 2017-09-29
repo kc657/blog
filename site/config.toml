@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Kevin Chen"
-	description = "Compling some of my thoughts.."
+	description = "Compiling some of my thoughts.."
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
