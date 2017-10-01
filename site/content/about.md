@@ -9,7 +9,9 @@ Excited to be a developer based in the San Francisco Bay Area. Before settling d
 
 I love creating challenging applications to test my creative and technical limitations. Driven with an expectation of excellence, I receive satisfaction by solving complex problems systematically. Development provides a perfect environment for that endeavor and an ever-expanding set of tools to experiment with.
 
-Languages: JavaScript(ES6), Ruby, Python, HTML5, CSS, SASS, Mandarin Chinese Frameworks/Libraries: React.js, Express, Rails, jQuery, Mongoose, LoopBack, React Native, Preact.js Database: MongoDB, PostgreSQL
+Languages: JavaScript(ES6), Ruby, Python, HTML5, CSS, SASS, Mandarin Chinese
+Frameworks/Libraries: React.js, Express, Rails, jQuery, Mongoose, LoopBack, React Native, Preact.js Database: MongoDB, PostgreSQL
+
 Other: Node.js, AJAX, Heroku, Bootstrap, Materialize, Bluemix, RSpec, Atom, Git/Github, Postman
 
-Motorcycle: Kawasaki Ninja 300 (2015)
+Motorcycle: Kawasaki Ninja 300 (2015) 
