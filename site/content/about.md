@@ -11,7 +11,9 @@ I love creating challenging applications to test my creative and technical limit
 
 **Languages:** JavaScript(ES6), Ruby, Python, HTML5, CSS, SASS, Mandarin Chinese
 
-**Frameworks/Libraries:** React.js, Express, Rails, jQuery, Mongoose, LoopBack, React Native, Preact.js Database: MongoDB, PostgreSQL
+**Frameworks/Libraries:** React.js, Express, Rails, jQuery, Mongoose, LoopBack, React Native, Preact.js
+
+**Database:** MongoDB, PostgreSQL
 
 **Other:** Node.js, AJAX, Heroku, Bootstrap, Materialize, Bluemix, RSpec, Atom, Git/Github, Postman
 
