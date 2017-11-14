@@ -55,7 +55,7 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "dashbot-second.png"
 			thumb = "docubot-demo.gif"
-			title = "DocuBot - https://github.com/kc657/DocumentationDashbot"
+			title = "DocuBot - https://github.com/kc657/DocuBot-chatbot"
 			description = "DocuBot is a documentation chatbot powered by actionable analytics. I used DialogFlow and a custom webhook to build a natural and rich conversational experiences and Dashbot for actionable bot analytics. Check out my blog post to learn more about it!"
 
 		[[params.portfolio.gallery]]
