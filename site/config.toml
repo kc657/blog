@@ -52,12 +52,6 @@ paginate = 10
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
-	 	[[params.portfolio.gallery]]
-			image = "docubot-second.png"
-			thumb = "docubot-demo.gif"
-			title = "DocuBot - https://github.com/kc657/DocumentationDashbot"
-			description = "DocuBot is a documentation chatbot powered by actionable analytics. I used DialogFlow and a custom webhook to build a natural and rich conversational experiences. Next, I integrated our DialogFlow chatbot with Dashbot, a platform that provides actionable bot analytics. Dashbot became the center of our solution because of the data we were able to extract from it. Data such as conversational flow and top intents highlight how users are interacting with our documentation. Check out my blog post to learn more about it!"
-
 		[[params.portfolio.gallery]]
 			image = "articulat-second.png"
 			thumb = "articulat.png"
@@ -86,7 +80,13 @@ paginate = 10
 			image = ""
 			thumb = ""
 			title = ""
-			description =	"	"
+			description = ""
+
+		[[params.portfolio.gallery]]
+			image = ""
+			thumb = ""
+			title = ""
+			description = ""
 
 	[params.recentposts]
 		hide  = false
