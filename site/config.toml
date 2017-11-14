@@ -53,6 +53,12 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
+			image = "dashbot-second.png"
+			thumb = "docubot-demo.gif"
+			title = "DocuBot - https://github.com/kc657/DocumentationDashbot"
+			description = "DocuBot is a documentation chatbot powered by actionable analytics. I used DialogFlow and a custom webhook to build a natural and rich conversational experiences. Next, I integrated our DialogFlow chatbot with Dashbot, a platform that provides actionable bot analytics. Check out my blog post to learn more about it!"
+			
+		[[params.portfolio.gallery]]
 			image = "articulat-second.png"
 			thumb = "articulat.png"
 			title = "Articulat.in - https://github.com/kc657/Articulatin-Frontend"
@@ -75,12 +81,6 @@ paginate = 10
 			thumb = "melange-front.jpeg"
 			title = "Mélange - https://github.com/kc657/Melange-Food-API"
 			description = "Mélange API provides the hungry user with a tool to take ingredients they have in their pantry and search for new recipes! By integrating the Edamam Recipe Search API, the user is able to search for recipes using multiple ingredients in their inventory. The app returns a matching recipe the user can then save to the database and generate a list of saved recipes they want to cook."
-
-		[[params.portfolio.gallery]]
-			image = ""
-			thumb = ""
-			title = ""
-			description = ""
 
 		[[params.portfolio.gallery]]
 			image = ""
