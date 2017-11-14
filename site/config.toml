@@ -102,7 +102,7 @@ paginate = 10
 			"San Francisco",
 			"United States"
 		]
-		phone = ""
+		phone = "+1(818)928-9221"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
