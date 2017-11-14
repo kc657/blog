@@ -74,7 +74,7 @@ paginate = 10
 			image = "foster-thumb.png"
 			thumb = "foster-thumb.png"
 			title = "Faster Foster - https://github.com/kc657/mananger-redux-native"
-			description = "Faster Foster is a React Native/Redux application that runs on both iOS and Android. I recently joined a foster care program at Berkeley Humane where I picked up two amazing kittens named Zeus and Hera. The shelter require foster volunteers to weigh the kittens every day and communicate it with the shelter on a regular basis. In addition, I also had to set up checkups at the shelter on a regular basis. I wanted to create an application that can expedite this process for both the volunteer and Berkeley Humane."
+			description = "Faster Foster is a React Native/Redux application that runs on both iOS and Android. I recently joined a foster care program at Berkeley Humane where I picked up two amazing kittens named Zeus and Hera. The shelter require foster volunteers to weigh the kittens every day and get checkups with the shelter on a regular basis. I wanted to create an application that can expedite this process for both the volunteer and Berkeley Humane."
 
 		[[params.portfolio.gallery]]
 			image = "waywayfar-second.png"
