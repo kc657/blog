@@ -15,6 +15,6 @@ I love creating challenging applications to test my creative and technical limit
 
 **Database:** MongoDB, PostgreSQL
 
-**Other:** Node.js, AJAX, Heroku, Bootstrap, Materialize, Bluemix, RSpec, Atom, Git/Github, Postman
+**Other:** Node.js, AJAX, Jest, Heroku, Bootstrap, Materialize, Bluemix, RSpec, Atom, Git/Github, Postman
 
 **Motorcycle:** Kawasaki Ninja 300 (2015)
