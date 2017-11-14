@@ -57,12 +57,12 @@ paginate = 10
 			thumb = "docubot-demo.gif"
 			title = "DocuBot - https://github.com/kc657/DocumentationDashbot"
 			description = "DocuBot is a documentation chatbot powered by actionable analytics. I used DialogFlow and a custom webhook to build a natural and rich conversational experiences. Next, I integrated our DialogFlow chatbot with Dashbot, a platform that provides actionable bot analytics. Check out my blog post to learn more about it!"
-			
+
 		[[params.portfolio.gallery]]
 			image = "articulat-second.png"
 			thumb = "articulat.png"
 			title = "Articulat.in - https://github.com/kc657/Articulatin-Frontend"
-			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving the longest common subsequence problem and the common substrings problem."
+			description = "Articulat.in an IBM Watson powered MERN stack application. It helps speech preparation by analyzing text differential of a written transcript and user's voice recording. The scoring algorithm in place is the result of solving the longest common subsequence problem and the common substrings problem. Check out my blog post to learn more about how I built the algorithm!"
 
 		[[params.portfolio.gallery]]
 			image = "Kumu-second.png"
