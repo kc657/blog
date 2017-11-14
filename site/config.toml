@@ -71,6 +71,12 @@ paginate = 10
 			description = "Kumu is a Ruby on Rails application that gives students a space to share their notes and feedback with each other. Students interact with each other's notes through comments and up/down voting. Additionally the App will feature the ability to create an account, have custom information on a user profile, and keep track of user stats."
 
 		[[params.portfolio.gallery]]
+			image = "foster-thumb.png"
+			thumb = "foster-thumb.png"
+			title = "Faster Foster - https://github.com/kc657/mananger-redux-native"
+			description = "Faster Foster is a React Native/Redux application that runs on both iOS and Android. I recently joined a foster care program at Berkeley Humane where I picked up two amazing kittens named Zeus and Hera. The shelter require foster volunteers to weigh the kittens every day and communicate it with the shelter on a regular basis. In addition, I also had to set up checkups at the shelter on a regular basis. I wanted to create an application that can expedite this process for both the volunteer and Berkeley Humane."
+
+		[[params.portfolio.gallery]]
 			image = "waywayfar-second.png"
 			thumb = "waywayfar.png"
 			title = "Waywayfar - https://github.com/kc657/project-wayfar-frontend"
@@ -81,12 +87,6 @@ paginate = 10
 			thumb = "melange-front.jpeg"
 			title = "Mélange - https://github.com/kc657/Melange-Food-API"
 			description = "Mélange API provides the hungry user with a tool to take ingredients they have in their pantry and search for new recipes! By integrating the Edamam Recipe Search API, the user is able to search for recipes using multiple ingredients in their inventory. The app returns a matching recipe the user can then save to the database and generate a list of saved recipes they want to cook."
-
-		[[params.portfolio.gallery]]
-			image = ""
-			thumb = ""
-			title = ""
-			description = ""
 
 	[params.recentposts]
 		hide  = false
