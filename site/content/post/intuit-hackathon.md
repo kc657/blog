@@ -1,5 +1,5 @@
 ---
-title: Dialogflow + Dashbot at Intuit Hackathon
+title: DialogFlow + Dashbot at Intuit Hackathon
 date: 2017-11-13T14:30:00.385Z
 ---
 In the face of insurmountable odds, we were nevertheless posed the age old question that has puzzled countless generations of small business owners: what can we do to help save time or money? But puzzle no more! During Intuit’s Small Business Hackathon,  our team, which consisted of three other developers I met there, racked our brains and saw a common problem when working with smaller businesses: documentation.
