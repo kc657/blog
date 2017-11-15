@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,8 +10,29 @@
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^0.5.0-beta.10/dist/cms.css" />
   <!-- Include a CMS specific stylesheet here -->
 
+
+  <script src="https://global.localizecdn.com/localize.js"></script>
+
+  <script>
+    ! function(a) {
+      if (!a.Localize) {
+        a.Localize = {};
+        for (var e = ["translate", "untranslate", "phrase", "initialize", "translatePage", "setLanguage", "getLanguage", "detectLanguage", "getAvailableLanguages", "untranslatePage", "bootstrap", "prefetch", "on", "off"], t = 0; t < e.length; t++) a
+          .Localize[e[t]] = function() {}
+      }
+    }(window);
+  </script>
+
+  <script>
+    Localize.initialize({
+      key: '9fUVBqrDmSGQj',
+      rememberLanguage: true
+    });
+  </script>
 </head>
+
 <body>
   <script src="https://unpkg.com/netlify-cms@^0.5.0-beta.10/dist/cms.js"></script>
 </body>
+
 </html>
